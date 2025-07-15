@@ -4,7 +4,7 @@ A simple yet powerful JavaScript-based habit tracking app that lets users:
 - Add and delete custom habits
 - Track progress across 7 days
 - View weekly completion % (progress bar)
-- See current and best streak 🔥
+- See current and best streak
 - Automatically reset every Monday (ISO week logic)
 - Manually reset with safety popup
 
